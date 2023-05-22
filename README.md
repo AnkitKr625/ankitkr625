@@ -7,7 +7,7 @@
 ## Resume
 
 <a href="https://drive.google.com/file/d/1oZ_CzE5kTGzz85RfZf7kj6TwRAfnhpib/view?usp=sharing">
-<img src="https://img.icons8.com/officel/16/resume.png" alt="resume" width="48"/>
+<img src="https://img.icons8.com/officel/96/resume.png" alt="resume" width="48"/>
 </a>
 
 ## Tech Stack:
