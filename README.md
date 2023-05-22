@@ -59,7 +59,7 @@
 <table>
 	<tbody>
     <tr>
-      <td align="left" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://img.icons8.com/color/96/git.png">
         <br>Git
       </td>
