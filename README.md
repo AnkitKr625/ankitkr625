@@ -4,6 +4,11 @@
 
 ### I am a passionate frontend developer, specializing in creating user-friendly and visually appealing web interfaces. I love combining my design skills with my coding expertise to build responsive and engaging websites.
 
+## Resume
+<a href="https://drive.google.com/file/d/1oZ_CzE5kTGzz85RfZf7kj6TwRAfnhpib/view?usp=sharing">
+<img src="https://img.icons8.com/officel/16/resume.png" alt="resume" width="48"/>
+</a>
+
 <!--
 **AnkitKr625/ankitkr625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
