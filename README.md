@@ -29,6 +29,31 @@
   </tbody>
 </table>
 
+> Frameworks
+
+<table>
+	<tbody>
+    <tr>
+      <td align="Center" width="25%">   
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <br>React JS
+      </td>
+      <td align="Center" width="25%">   
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <br>Vue JS
+      </td>
+      <td align="Center" width="25%">   
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <br>Redux
+      </td>
+      <td align="Center" width="25%">   
+        <img height="64px" width="64px" src="https://img.icons8.com/color/96/null/tailwindcss.png">
+        <br>Tailwind CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **AnkitKr625/ankitkr625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
