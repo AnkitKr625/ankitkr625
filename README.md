@@ -17,11 +17,11 @@
 <table>
 	<tbody>
     <tr>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
         <br>JavaScript
       </td>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
         <br>Java
       </td>
@@ -34,21 +34,34 @@
 <table>
 	<tbody>
     <tr>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
         <br>React JS
       </td>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
         <br>Vue JS
       </td>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
         <br>Redux
       </td>
-      <td align="Center" width="25%">   
+      <td align="center" width="25%">   
         <img height="64px" width="64px" src="https://img.icons8.com/color/96/null/tailwindcss.png">
         <br>Tailwind CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+> Tools
+
+<table>
+	<tbody>
+    <tr>
+      <td align="left" width="25%">   
+        <img height="64px" width="64px" src="https://img.icons8.com/color/96/git.png">
+        <br>Git
       </td>
     </tr>
   </tbody>
